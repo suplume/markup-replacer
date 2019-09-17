@@ -1,0 +1,11 @@
+{
+  "general": {
+    "path": "test",
+    "eraseComment": true,
+    "targetExtNames": ["php","html"],
+    "backupDirName": "backup",
+    "replaces": {
+      "prefix属性": "article"
+    }
+  }
+}
